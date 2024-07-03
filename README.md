@@ -4,8 +4,8 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects, ce
 
 ## Education
 
-- **MS in Cybersecurity and Information Assurance**
-    Western Governors University, Salt Lake City, UT (Expected Graduation - May 2025)
+- **MS in Cybersecurity and Information Assurance** 
+  University of North Carolina at Charlotte, Charlotte, NC (September 2015 - December 2021)
 - **BS in Health Systems Management, Minor in Data Science**  
   University of North Carolina at Charlotte, Charlotte, NC (September 2015 - December 2021)
 
