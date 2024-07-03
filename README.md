@@ -48,6 +48,7 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects, ce
 - Participated in Google CTF 2024. (Did not place) <img src="https://capturetheflag.withgoogle.com/img/flag_logo.gif" width="35" height="35"/>
 
 ### FIRST Robotics Competition HS Team Mentor
+-	Mentored local high school FRC robotics team, assisted with programming in Java, Python, and C++
 
 ## Technical Skills
 
