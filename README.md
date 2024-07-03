@@ -43,8 +43,9 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects, ce
 
 ### Cybersecurity CTF Competitions
 - Participated in Capture-the-Flag events, showcased cybersecurity and problem-solving skills related to Forensics, Malware Analysis, Reverse Engineering, Networking & Reconnaissance, Incident response, Open-Source Intelligence Gathering (OSINT), and Web Security exploitation.
-- Placed in top 15% of participants in DOD/CorrelationOne Cyber Sentinel 2024, US Cyber Games 2024 Open CTF.
-- Participated in Google CTF 2024. (Did not place)
+- Placed in top 15% of participants in DOD/CorrelationOne Cyber Sentinel 2024, US Cyber Games 2024 Open CTF. <img src="https://api.badgr.io/public/assertions/YMc2c82kQJa3DViuN0S6Uw/image" width="35" height="35"  />
+
+- Participated in Google CTF 2024. (Did not place) <img src="https://capturetheflag.withgoogle.com/img/flag_logo.gif" width="35" height="35"/>
 
 ### FIRST Robotics Competition HS Team Mentor
 
