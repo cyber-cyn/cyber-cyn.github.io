@@ -19,11 +19,7 @@ Welcome to my GitHub portfolio! Here you'll find a collection of my projects, ce
 <img src="https://img.shields.io/badge/-PenTest%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CySa%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CC-006400?&style=for-the-badge&logo=ISC2&logoColor=green" />
-
-
-
-
-
+</ div> 
 
 ## Work Experience
 
